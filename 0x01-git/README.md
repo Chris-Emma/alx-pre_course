@@ -1,1 +1,1 @@
-This was a New Task
+New Task
